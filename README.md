@@ -5,15 +5,15 @@ For the Cardiac dataset, we plot the motion of our predicted image under samplin
 
 ### Example 1
 <p float="left">
-  <img src="GIF/p31z0_zf.gif" width="300" />
-  <img src="GIF/p31z0_gt.gif" width="300" />
-  <img src="GIF/p31z0_pred.gif" width="300" />
+  <img src="GIF/p31z0_zf.gif" width="250" />
+  <img src="GIF/p31z0_gt.gif" width="250" />
+  <img src="GIF/p31z0_pred.gif" width="250" />
 </p>
 
 
 ### Example 2
 <p float="left">
-  <img src="GIF/p32z0_zf.gif" width="300" />
-  <img src="GIF/p32z0_gt.gif" width="300" />
-  <img src="GIF/p32z0_pred.gif" width="300" />
+  <img src="GIF/p32z0_zf.gif" width="250" />
+  <img src="GIF/p32z0_gt.gif" width="250" />
+  <img src="GIF/p32z0_pred.gif" width="250" />
 </p>
