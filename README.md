@@ -29,6 +29,18 @@ For us, we use the converted png images provided by [Here](https://github.com/ti
 
 
 # Some Visual Result
-For the Cardiac dataset, we also plot the reconstruction output of our SEFRN (AF = 4) as sequence, in order to check whether the motion is normal.
+For the Cardiac dataset, we plot the motion of our predicted image under sampling rate 15%, in order to check whether the predicted motion is normal. Please see the figure below. 
 
-![test](GIF/p31z0_zf.gif)
+### Example 1 (From left to right: Zero-Filled, Ground Truth and Predicted Image)
+<p float="left">
+  <img src="GIF/p31z0_zf.gif" width="250" />
+  <img src="GIF/p31z0_gt.gif" width="250" />
+  <img src="GIF/p31z0_pred.gif" width="250" />
+</p>
+
+### Example 2 (From left to right: Zero-Filled, Ground Truth and Predicted Image)
+<p float="left">
+  <img src="GIF/p32z0_zf.gif" width="250" />
+  <img src="GIF/p32z0_gt.gif" width="250" />
+  <img src="GIF/p32z0_pred.gif" width="250" />
+</p>
