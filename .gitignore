@@ -1,0 +1,16 @@
+*.pyc
+*.swp
+*.swo
+result/
+hidden/
+others/
+sample_code/
+cardiac_ktz/
+/log
+/logs
+/data/
+__pycache__/
+others/
+images/
+fastmri/__pycache__/
+
