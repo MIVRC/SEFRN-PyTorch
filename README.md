@@ -1,4 +1,4 @@
-# SEN-MRI
+# SEFRN-MRI
 This is the official code hub for the SEFRN: Lightweight and Accurate Self-Ensemble Feedback Recurrent Network for MRI Reconstruction (under review)
 
 # Requirements
