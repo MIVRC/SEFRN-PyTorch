@@ -19,7 +19,7 @@ This is the official code hub for the SEFRN: Lightweight and Accurate Self-Ensem
 # Prepare Data
 1 Cardiac dataset: The original data is established from the work Alexander et al. Details can be found in the paper.  You can download the original data from [Here](http://jtl.lassonde.yorku.ca/software/datasets/).
 
-For us, we use the converted png images provided by [Here](https://github.com/tinyRattar/CDDNwithTDC_storage/tree/master/data/pngFormat), and the convert code is [Here](https://github.com/tinyRattar/CDDNwithTDC_storage/blob/master/data/saveAsPng.m). The data is placed in `./data/cardiac_ktz/`.
+For us, we use the converted png images provided by [Here](https://github.com/tinyRattar/CDDNwithTDC_storage/tree/master/data/pngFormat), and the convert code is [Here](https://github.com/tinyRattar/CDDNwithTDC_storage/blob/master/data/saveAsPng.m). The data should be placed in `./data/cardiac_ktz/`.
 
 2 Brain dataset: this dataset is establisded by Souza et al. you can download it from [Here](https://sites.google.com/view/calgary-campinas-dataset/download?authuser=0)
 
