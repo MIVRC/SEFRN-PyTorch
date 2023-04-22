@@ -1,5 +1,5 @@
 # SEFRN-MRI
-This is the official code hub for the SEFRN: Lightweight and Accurate Self-Ensemble Feedback Recurrent Network for MRI Reconstruction (under review)
+This is the official code hub for the SEFRN: Lightweight and Accurate Self-Ensemble Feedback Recurrent Network for MRI Reconstruction
 
 # Requirements
 - Python==3.6.6
